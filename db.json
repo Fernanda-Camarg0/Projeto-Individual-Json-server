@@ -1,0 +1,80 @@
+{
+    "Hambúrguer": [
+      {
+        "id": 1,
+        "Nome": "Sagaz",
+        "conteudo": "carne de 80g prensada,2 fatias de queijo cheddar,fatias de bacon crocante,alface,tomate,cebola roxa e maionese de alho temperada.",
+        "preço": "R$29,90"
+      },
+      {
+        "id": 2,
+        "Nome": "Sinistro",
+        "conteudo": "3 smash de 80g,3 fatias de cheddar, fatias de bacon,cebola roxa,picles e molho da casa.",
+        "preço": "R$44,90"
+      },
+      {
+        "id": 3,
+        "Nome": "Podrão",
+        "conteudo": "2 smash de 80g, queijo prato,ovo frito com provolone,presunto,bacon e maionese temperada.",
+        "preço": "R$39,90"
+      },
+      {
+        "id": 4,
+        "Nome": "Suave",
+        "conteudo": "1 smash de 80g,queijo prato,molho grill especial.",
+        "preço": "R$19,90"
+      }
+    ],
+        "Entradas": [
+            {
+                "id": 1,
+                "Nome": "Batata maluca",
+                "tamanho": "500g",
+                "preço": "R$34,90"
+              },
+              {
+                "id": 2,
+                "Nome": "Empanadinhos de frango",
+                "tamanho": "250g",
+                "preço": "R$24,90"
+              },
+              {
+                "id": 3,
+                "Nome": "Onion rings",
+                "tamanho": "20 anéis",
+                "preço": "R$26,90"
+              },
+              {
+                "id": 4,
+                "Nome": "Frango crocante + molho",
+                "tamanho": "400g",
+                "preço": "R$36,90"
+              }
+        ],
+            "Bebidas": [
+             {
+                    "id": 1,
+                    "Nome": "Coca-cola zero",
+                    "tamanho": "350 ml",
+                    "preço": "R$6,90"
+                  },
+                  {
+                    "id": 2,
+                    "Nome": "Pepsi",
+                    "tamanho": "500ml",
+                    "preço": "R$6,90"
+                  },
+                  {
+                    "id": 3,
+                    "Nome": "Fanta Laranja",
+                    "tamanho": "350ml",
+                    "preço": "R$6,90"
+                  },
+                  {
+                    "id": 4,
+                    "Nome": "Guaraná Antarctica",
+                    "tamanho": "350ml",
+                    "preço": "R$6,90"
+                  }
+            ]
+}
